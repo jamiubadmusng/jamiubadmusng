@@ -9,8 +9,9 @@ My research interests are at the intersection of:
 - Trade Policy
 - Geoeconomics
 - Development Economics
+<!---
 - Causal Inference | Quantitative Modelling | Data Science
-
+--->
 In recent years, my work has focused on the impact of trade policy and geopolitical risks on international trade and foreign direct investment.
 
 ### What you will find here
