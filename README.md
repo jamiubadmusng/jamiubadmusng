@@ -9,7 +9,7 @@ I recently graduated from the Erasmus Mundus Master’s in Economics of Globaliz
 I am currently completing a predoctoral Certificate Program in Economic Theory, Econometrics, and Mathematical Economics (CETEME) at the BAUM Tenpers Research Institute in Arlington, Virginia, where I am strengthening my proof-based mathematical and statistical skills for advanced structural and causal modeling applications in economic theory and econometrics in preparation for admission into a PhD program in Economics by Fall 2026.
 
 I use my GitHub to document:
-- 📦 Replication packages for some structural gravity papers (usually translated from Stata to R); 
+- 📦 Replication packages for some structural gravity estimations (usually Stata code translated to R); 
 - 💾 Replication packages for some of my published papers;
 
 You can reach me:
