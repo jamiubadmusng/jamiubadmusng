@@ -1,18 +1,24 @@
-## Hi there 👋
+# Hi there 👋
 
 Welcome to my GitHub profile!
 
-I am Jamiu Olamilekan Badmus. I am deeply curious about how policy-relevant research shapes evidence-based decision-making. My research interests lie at the intersection of international trade, trade policy analysis, geoeconomics, and development economics using quantitative methods and causal inference.
+I am Jamiu Olamilekan Badmus. I recently completed a Research Internship at the United Nations University Institute on Comparative Regional Integration Studies (UNU-CRIS) in Bruges, Belgium.
 
-I recently graduated from the Erasmus Mundus Master’s in Economics of Globalization and European Integration (EGEI) program, funded by the European Commission from 2023 to 2025. Previously, I completed bachelor's and master's degrees in Economics from Tai Solarin University of Education, Nigeria.
+My research interests are at the intersection of:
+- International Trade
+- Trade Policy
+- Geoeconomics
+- Development Economics
+- Causal Inference | Quantitative Modelling | Data Science
 
-I am currently completing a predoctoral Certificate Program in Economic Theory, Econometrics, and Mathematical Economics (CETEME) at the BAUM Tenpers Research Institute in Arlington, Virginia, where I am strengthening my proof-based mathematical and statistical skills for advanced structural and causal modeling applications in economic theory and econometrics in preparation for admission into a PhD program in Economics by Fall 2026.
+In recent years, my work has focused on the impact of trade policy and geopolitical risks on international trade and foreign direct investment.
 
-I use my GitHub to document:
-- 📦 Replication packages for some structural gravity estimations (usually Stata code translated to R); 
-- 💾 Replication packages for some of my published papers;
+### What you will find here
+- 📦 Replication packages (mainly in R)
+- 📁 Data Science Projects
+- 🗄 Code for published and working papers
 
-You can reach me:
+### You can reach me:
 
 - 📧 Email: jamiubadmus001@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/jamiu-olamilekan-badmus-9276a8192/
