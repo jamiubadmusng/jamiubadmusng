@@ -2,7 +2,9 @@
 
 Welcome to my GitHub profile!
 
-I am Jamiu Olamilekan Badmus. I recently completed a Research Internship at the United Nations University Institute on Comparative Regional Integration Studies (UNU-CRIS) in Bruges, Belgium.
+I am Jamiu Olamilekan Badmus. I am a graduate of the Erasmus Mundus Master's in Economics of Globalization and European Integration (EGEI), fully funded by the European Commission from 2023 to 2025.
+
+I recently completed a Research Internship at the United Nations University Institute on Comparative Regional Integration Studies (UNU-CRIS) in Bruges, Belgium.
 
 My research interests are at the intersection of:
 - International Trade
@@ -14,7 +16,8 @@ My research interests are at the intersection of:
 --->
 In recent years, my work has focused on the impact of trade policy and geopolitical risks on international trade and foreign direct investment.
 
-### What you will find here
+### What you will find here:
+
 - 📦 Replication packages (mainly in R)
 - 📁 Data Science Projects
 - 🗄 Code for published and working papers
