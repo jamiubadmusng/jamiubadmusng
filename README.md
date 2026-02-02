@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I am Jamiu Olamilekan Badmus. I am a graduate of the Erasmus Mundus Master's in Economics of Globalization and European Integration (EGEI), fully funded by the European Commission from 2023 to 2025.
+I am Jamiu Olamilekan Badmus. I am a graduate of the Erasmus Mundus Master's in Economics of Globalization and European Integration (EGEI), fully funded by the European Commission from 2023 to 2025. Also, I hold a first-class bachelor's and a master's with distinction in Economics from Tai Solarin Federal University of Education (TASFUED), Nigeria.
 
 I recently completed a Research Internship at the United Nations University Institute on Comparative Regional Integration Studies (UNU-CRIS) in Bruges, Belgium.
 
