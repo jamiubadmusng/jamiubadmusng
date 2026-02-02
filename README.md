@@ -14,7 +14,7 @@ My research interests are at the intersection of:
 <!---
 - Causal Inference | Quantitative Modelling | Data Science
 --->
-In recent years, my work has focused on the impact of trade policy and geopolitical risks on international trade and foreign direct investment.
+In recent years, my work has focused on the impact of trade policy and geopolitical risks on (international) trade and investment.
 
 ### What you will find here:
 
