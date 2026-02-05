@@ -17,7 +17,7 @@ I leverage economic theory and machine learning to analyze trade policy, geopoli
 
 ## 🎓 Background
 
-- **Erasmus Mundus Master's** in Economics of Globalization and European Integration (EGEI) — *European Commission Scholar, 2023-2025*
+- **Erasmus Mundus Master's** in Economics of Globalization and European Integration (EGEI) — *fully funded by the European Commission, 2023-2025*
 - **M.Sc. & B.Sc. Economics** (First Class & Distinction) — Tai Solarin University of Education, Nigeria
 - **Research Intern** — United Nations University (UNU-CRIS), Bruges, Belgium
 - **IBM Data Science Professional Certificate**
