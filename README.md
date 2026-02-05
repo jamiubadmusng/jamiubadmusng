@@ -1,4 +1,6 @@
-# Hi there 👋 I'm Jamiu Olamilekan Badmus
+# Hi there 👋 
+
+## I'm Jamiu Olamilekan Badmus
 
 **Economist | Data Scientist | IBM Certified Data Science Professional**
 
