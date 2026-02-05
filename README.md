@@ -11,9 +11,16 @@
 
 ### About Me
 
-🎓 **Erasmus Mundus Scholar** (EGEI 2023-2025) | **UN Research Intern** (UNU-CRIS) | **IBM Certified Data Scientist**
-
 I leverage economic theory and machine learning to analyze trade policy, geopolitical risks, and business problems. My work bridges academic research with practical data-driven solutions.
+
+---
+
+## 🎓 Background
+
+- **Erasmus Mundus Master's** in Economics of Globalization and European Integration (EGEI) — *European Commission Scholar, 2023-2025*
+- **M.Sc. & B.Sc. Economics** (First Class & Distinction) — Tai Solarin University of Education, Nigeria
+- **Research Intern** — United Nations University (UNU-CRIS), Bruges, Belgium
+- **IBM Data Science Professional Certificate**
 
 ---
 
