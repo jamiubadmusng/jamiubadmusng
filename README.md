@@ -1,32 +1,67 @@
-# Hi there 👋
+# Hi there 👋 I'm Jamiu Olamilekan Badmus
 
-Welcome to my GitHub profile!
+**Economist | Data Scientist | IBM Certified Data Science Professional**
 
-I am Jamiu Olamilekan Badmus. I am a graduate of the Erasmus Mundus Master's in Economics of Globalization and European Integration (EGEI), fully funded by the European Commission from 2023 to 2025. Also, I hold a first-class bachelor's and a master's with distinction in Economics from Tai Solarin Federal University of Education (TASFUED), Nigeria.
+I combine rigorous economic analysis with modern data science techniques to solve complex problems in trade, policy, and business.
 
-I recently completed a Research Internship at the United Nations University Institute on Comparative Regional Integration Studies (UNU-CRIS) in Bruges, Belgium.
+---
 
-My research interests are at the intersection of:
-- International Trade
-- Trade Policy
-- Geoeconomics
-- Development Economics
-<!---
-- Causal Inference | Quantitative Modelling | Data Science
---->
-In recent years, my work has focused on the impact of trade policy and geopolitical risks on (international) trade and investment.
+## 🎓 Background
 
-### What you will find here:
+- **Erasmus Mundus Master's** in Economics of Globalization and European Integration (EGEI) — *European Commission Scholar, 2023-2025*
+- **M.Sc. & B.Sc. Economics** (First Class & Distinction) — Tai Solarin University of Education, Nigeria
+- **Research Intern** — United Nations University (UNU-CRIS), Bruges, Belgium
+- **IBM Data Science Professional Certificate**
 
-- 📦 Replication packages (mainly in R)
-- 📁 Data Science Projects
-- 🗄 Code for published and working papers
+---
 
-### You can reach me:
+## 🔬 Research Interests (Economics)
 
-- 📧 Email: jamiubadmus001@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/jamiu-olamilekan-badmus-9276a8192/
+| Area | Focus |
+|------|-------|
+| International Trade | Trade flows, gravity models, regional integration |
+| Trade Policy | Tariffs, trade agreements, policy evaluation |
+| Geoeconomics | Geopolitical risks, economic statecraft |
+| Development Economics | Growth, inequality, structural transformation |
 
+*Recent work: Impact of trade policy and geopolitical risks on international trade and investment*
+
+---
+
+## 📊 Data Science Portfolio
+
+End-to-end machine learning projects across 5 industries:
+
+| Project | Industry | Model | Performance |
+|---------|----------|-------|-------------|
+| [Customer Churn Prediction](https://github.com/jamiubadmusng/tech-industry) | Tech/Telecom | XGBoost | 91.31% ROC-AUC |
+| [Purchase Behavior Analysis](https://github.com/jamiubadmusng/e-commerce) | E-Commerce | LightGBM | 76.77% ROC-AUC |
+| [Credit Risk Assessment](https://github.com/jamiubadmusng/finance) | Finance | Logistic Regression | 80.43% ROC-AUC |
+| [Property Valuation](https://github.com/jamiubadmusng/commercial-real-estate) | Real Estate | Gradient Boosting | 92.46% ROC-AUC |
+| [Production Forecasting](https://github.com/jamiubadmusng/oil-and-gas) | Oil & Gas | Ridge Regression | 99.99% R² |
+
+**Tech Stack:** Python, Scikit-learn, XGBoost, LightGBM, Pandas, NumPy, Matplotlib, Seaborn, SHAP
+
+---
+
+## 📁 What You'll Find Here
+
+- 🧪 **Replication Packages** — Reproducible code for economic research (R/Stata)
+- 🤖 **Data Science Projects** — ML pipelines with full documentation
+- 📄 **Research Code** — Published and working papers
+
+---
+
+## 📫 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-jamiubadmus001%40gmail.com-red?style=flat&logo=gmail)](mailto:jamiubadmus001@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jamiu%20Badmus-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jamiu-olamilekan-badmus-9276a8192/)
+[![Website](https://img.shields.io/badge/Website-Portfolio-green?style=flat&logo=google-chrome)](https://sites.google.com/view/jamiu-olamilekan-badmus/)
+[![GitHub](https://img.shields.io/badge/GitHub-jamiubadmusng-black?style=flat&logo=github)](https://github.com/jamiubadmusng)
+
+---
+
+*"Bridging economic theory with data-driven insights"*
 <!---
 **jamiubadmusng/jamiubadmusng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
