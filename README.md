@@ -1,69 +1,58 @@
-# Hi there 👋 
+<h1 align="center">Jamiu Olamilekan Badmus</h1>
+<h3 align="center">Economist • Data Scientist • Researcher</h3>
 
-## I'm Jamiu Olamilekan Badmus
-
-**Economist | Data Scientist | IBM Certified Data Science Professional**
-
-I combine rigorous economic analysis with modern data science techniques to solve complex problems in trade, policy, and business.
-
----
-
-## 🎓 Background
-
-- **Erasmus Mundus Master's** in Economics of Globalization and European Integration (EGEI) — *fully funded by the European Commission, 2023-2025*
-- **M.Sc. & B.Sc. Economics** (First Class & Distinction) — Tai Solarin University of Education, Nigeria
-- **Research Intern** — United Nations University (UNU-CRIS), Bruges, Belgium
-- **IBM Data Science Professional Certificate**
+<p align="center">
+  <a href="mailto:jamiubadmus001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jamiu-olamilekan-badmus-9276a8192/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://sites.google.com/view/jamiu-olamilekan-badmus/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🔬 Research Interests (Economics)
+### About Me
 
-| Area | Focus |
-|------|-------|
-| International Trade | Trade flows, gravity models, regional integration |
-| Trade Policy | Tariffs, trade agreements, policy evaluation |
-| Geoeconomics | Geopolitical risks, economic statecraft |
-| Development Economics | Growth, inequality, structural transformation |
+🎓 **Erasmus Mundus Scholar** (EGEI 2023-2025) | **UN Research Intern** (UNU-CRIS) | **IBM Certified Data Scientist**
 
-*Recent work: Impact of trade policy and geopolitical risks on international trade and investment*
+I leverage economic theory and machine learning to analyze trade policy, geopolitical risks, and business problems. My work bridges academic research with practical data-driven solutions.
 
 ---
 
-## 📊 Data Science Portfolio
+### 🔬 Economics Research
 
-End-to-end machine learning projects across 5 industries:
+**Focus Areas:** International Trade • Trade Policy • Geoeconomics • Development Economics
 
-| Project | Industry | Model | Performance |
-|---------|----------|-------|-------------|
-| [Customer Churn Prediction](https://github.com/jamiubadmusng/tech-industry) | Tech/Telecom | XGBoost | 91.31% ROC-AUC |
-| [Purchase Behavior Analysis](https://github.com/jamiubadmusng/e-commerce) | E-Commerce | LightGBM | 76.77% ROC-AUC |
-| [Credit Risk Assessment](https://github.com/jamiubadmusng/finance) | Finance | Logistic Regression | 80.43% ROC-AUC |
-| [Property Valuation](https://github.com/jamiubadmusng/commercial-real-estate) | Real Estate | Gradient Boosting | 92.46% ROC-AUC |
-| [Production Forecasting](https://github.com/jamiubadmusng/oil-and-gas) | Oil & Gas | Ridge Regression | 99.99% R² |
+*Current research examines the impact of trade policy and geopolitical risks on international trade and investment.*
 
-**Tech Stack:** Python, Scikit-learn, XGBoost, LightGBM, Pandas, NumPy, Matplotlib, Seaborn, SHAP
+**Repositories:** Replication packages (R/Stata) • Code for published & working papers
 
 ---
 
-## 📁 What You'll Find Here
+### 🤖 Data Science Projects
 
-- 🧪 **Replication Packages** — Reproducible code for economic research (R/Stata)
-- 🤖 **Data Science Projects** — ML pipelines with full documentation
-- 📄 **Research Code** — Published and working papers
-
----
-
-## 📫 Connect With Me
-
-[![Email](https://img.shields.io/badge/Email-jamiubadmus001%40gmail.com-red?style=flat&logo=gmail)](mailto:jamiubadmus001@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jamiu%20Badmus-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jamiu-olamilekan-badmus-9276a8192/)
-[![Website](https://img.shields.io/badge/Website-Portfolio-green?style=flat&logo=google-chrome)](https://sites.google.com/view/jamiu-olamilekan-badmus/)
-[![GitHub](https://img.shields.io/badge/GitHub-jamiubadmusng-black?style=flat&logo=github)](https://github.com/jamiubadmusng)
+| Industry | Project | Highlights |
+|:--------:|:--------|:-----------|
+| 📱 **Tech** | [Customer Churn Prediction](https://github.com/jamiubadmusng/tech-industry) | XGBoost, 91.3% AUC |
+| 🛒 **E-Commerce** | [Purchase Behavior Analysis](https://github.com/jamiubadmusng/e-commerce) | LightGBM, 76.8% AUC |
+| 💳 **Finance** | [Credit Risk Assessment](https://github.com/jamiubadmusng/finance) | Logistic Regression, 80.4% AUC |
+| 🏢 **Real Estate** | [Property Valuation](https://github.com/jamiubadmusng/commercial-real-estate) | Gradient Boosting, 92.5% AUC |
+| 🛢️ **Oil & Gas** | [Production Forecasting](https://github.com/jamiubadmusng/oil-and-gas) | Ridge Regression, 99.99% R² |
 
 ---
 
-*"Bridging economic theory with data-driven insights"*
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Stata](https://img.shields.io/badge/Stata-1A5F7A?style=flat)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat)
+
+---
+
+<p align="center"><i>Bridging economic theory with data-driven insights</i></p>
+
+
 <!---
 **jamiubadmusng/jamiubadmusng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
