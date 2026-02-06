@@ -1,5 +1,5 @@
 <h1 align="center">Jamiu Olamilekan Badmus</h1>
-<h3 align="center">Economist • Data Scientist • Researcher</h3>
+<h3 align="center">Economist • Data Scientist • Research Analyst</h3>
 
 <p align="center">
   <a href="mailto:jamiubadmus001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
