@@ -52,6 +52,7 @@ I leverage economic theory and machine learning to analyze trade policy, geopoli
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat)
+![GitHub](https://img.shields.io/badge/github-repo-blue?logo=github)
 
 ---
 
