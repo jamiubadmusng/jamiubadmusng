@@ -11,25 +11,26 @@
 
 ### About Me
 
-I leverage economic theory and machine learning to analyze trade policy, geopolitical risks, and business problems. My work bridges academic research with practical data-driven solutions.
+I am **Jamiu Olamilekan Badmus**. I am a **PhD Candidate at the University of Birmingham, United Kingdom,** working on the ESRC DTP Project titled *"Trade Policy, Sustainable Value Chains, and Reshoring: National and Regional Perspectives from the UK"* under the joint supervision of Professor Sami Bensassi (University of Birmingham) and Dr. Agelos Delis (Aston University).
 
 ---
 
 ## 🎓 Background
 
+- **PhD in Economics** at the University of Birmingham, United Kingdom — *fully funded by the ESRC DTP Strategic Joint Studentship, 2026-2030*
 - **Erasmus Mundus Master's** in Economics of Globalization and European Integration (EGEI) — *fully funded by the European Commission, 2023-2025*
-- **M.Sc. & B.Sc. Economics** (First Class & Distinction) — Tai Solarin University of Education, Nigeria
-- **Research Intern** — United Nations University (UNU-CRIS), Bruges, Belgium — March 2025 to January 2026
+- **M.Sc. & B.Sc. Economics** (Distinction & First Class) — Tai Solarin University of Education, Nigeria
 <!---
+- **Research Intern** — United Nations University (UNU-CRIS), Bruges, Belgium — March 2025 to January 2026
 - **IBM Data Science Professional Certificate**, 2026  
 --->
 ---
 
 ### 🔬 Economics Research
 
-**Focus Areas:** International Trade • Trade Policy • Geoeconomics • Development Economics
+**Focus Areas:** International Trade • Trade Policy • Industrial Organization • Development Economics
 
-*Current research examines the impact of trade policy and geopolitical risks on international trade and investment.*
+*Current research examines the multidimensional impact of sustainability-focused trade policy, such as the Carbon Border Adjustment Mechanism (CBAM) on product-level trade, firm-level investment and reshoring, and regional welfare distribution in the UK and EU*
 
 **Repositories:** Replication packages (usually in R) • Code for published & working papers
 
