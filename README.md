@@ -28,7 +28,7 @@ I am **Jamiu Olamilekan Badmus**. I am a **PhD Candidate at the University of Bi
 
 ### 🔬 Economics Research
 
-**Focus Areas:** International Trade • Trade Policy • Industrial Organization • Development Economics
+**Focus Areas:** International Trade • Trade Policy • Industrial Organization • Environmental Economics
 
 *Current research examines the multidimensional impact of sustainability-focused trade policy, such as the Carbon Border Adjustment Mechanism (CBAM), on product-level trade, firm-level investment and reshoring, and regional welfare distribution in the UK and EU*
 
