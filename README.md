@@ -30,7 +30,7 @@ I am **Jamiu Olamilekan Badmus**. I am a **PhD Candidate at the University of Bi
 
 **Focus Areas:** International Trade • Trade Policy • Industrial Organization • Development Economics
 
-*Current research examines the multidimensional impact of sustainability-focused trade policy, such as the Carbon Border Adjustment Mechanism (CBAM) on product-level trade, firm-level investment and reshoring, and regional welfare distribution in the UK and EU*
+*Current research examines the multidimensional impact of sustainability-focused trade policy, such as the Carbon Border Adjustment Mechanism (CBAM), on product-level trade, firm-level investment and reshoring, and regional welfare distribution in the UK and EU*
 
 **Repositories:** Replication packages (usually in R) • Code for published & working papers
 
