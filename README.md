@@ -13,8 +13,6 @@
 
 My name is **Jamiu Olamilekan Badmus**. I am currently a PhD Economics Student at the University of Birmingham, working on an ESRC DTP-funded project titled *"Trade Policy, Sustainable Value Chains, and Reshoring: National and Regional Perspectives from the UK"* under the joint supervision of [Professor Sami Bensassi](https://www.birmingham.ac.uk/staff/profiles/business/bensassi-sami) (University of Birmingham) and [Dr. Agelos Delis](https://research.aston.ac.uk/en/persons/agelos-delis/) (Aston University).
 
-My research interests connect international trade, environmental economics, and industrial organisation to inform the design of sustainability-focused trade policies. My current research examines how carbon border adjustments reshape international trade and production. I trace three channels: how border carbon costs propagate through supply chains (production networks), how multinationals respond through location, abatement, and investment decisions (firm behaviour), and how reduced import competition affects domestic market power and green innovation (market structure).
-
 Before my PhD, I worked within the Economic and Political Interactions Cluster at the United Nations University Institute on Comparative Regional Integration Studies (UNU-CRIS). I hold an Erasmus Mundus Master's in Economics of Globalisation and European Integration (EGEI) studying across the University of Lille (France), Ghent University (Belgium), and the University of Bari Aldo Moro (Italy). I also hold an MSc (Distinction) and a BSc (first-class honours) in Economics from Tai Solarin University of Education, Nigeria.
 
 You can find my CV [here](https://drive.google.com/file/d/1JqAn4yjwcWMKKbF8A4cNW7PtMq_MOvlY/view).
@@ -34,9 +32,9 @@ You can find my CV [here](https://drive.google.com/file/d/1JqAn4yjwcWMKKbF8A4cNW
 
 ### 🔬 Economics Research
 
-**Focus Areas:** International Trade • Trade Policy • Industrial Organization • Environmental Economics
+**Focus Areas:** International Trade • Environmental Economics • Industrial Organization 
 
-*Current research examines the multidimensional impact of sustainability-focused trade policy, such as the Carbon Border Adjustment Mechanism (CBAM), on product-level trade, firm-level investment and reshoring, and regional welfare distribution in the UK and EU*
+My research interests connect international trade, environmental economics, and industrial organisation to inform the design of sustainability-focused trade policies. My current research examines how carbon border adjustments reshape international trade and production. I trace three channels: how border carbon costs propagate through supply chains (production networks), how multinationals respond through location, abatement, and investment decisions (firm behaviour), and how reduced import competition affects domestic market power and green innovation (market structure).
 
 **Repositories:** Replication packages (usually in R) • Code for published & working papers
 
