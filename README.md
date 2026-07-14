@@ -4,7 +4,7 @@
 <p align="center">
   <a href="mailto:jamiubadmus001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/jamiu-olamilekan-badmus-9276a8192/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://sites.google.com/view/jamiu-olamilekan-badmus/"><img src="https://img.shields.io/badge/Personal Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://www.jamiubadmus.com"><img src="https://img.shields.io/badge/Personal Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
 ---
@@ -15,7 +15,7 @@ My name is **Jamiu Olamilekan Badmus**. I am currently a PhD Economics Student a
 
 Before my PhD, I worked within the Economic and Political Interactions Cluster at the United Nations University Institute on Comparative Regional Integration Studies (UNU-CRIS). I hold an Erasmus Mundus Master's in Economics of Globalisation and European Integration (EGEI) studying across the University of Lille (France), Ghent University (Belgium), and the University of Bari Aldo Moro (Italy). I also hold an MSc (Distinction) and a BSc (first-class honours) in Economics from Tai Solarin University of Education, Nigeria.
 
-You can find my CV [here](https://drive.google.com/file/d/1JqAn4yjwcWMKKbF8A4cNW7PtMq_MOvlY/view).
+You can find my CV [here](https://drive.google.com/file/d/1EPOx48KmueGcVIA6ZWRl7lwm3LBMgXC_/view?usp=sharing).
 
 ---
 
