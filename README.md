@@ -11,7 +11,7 @@
 
 ### About Me
 
-My name is **Jamiu Olamilekan Badmus**. I am currently a PhD Economics Student at the University of Birmingham, working on an ESRC DTP-funded project titled "Trade Policy, Sustainable Value Chains, and Reshoring: National and Regional Perspectives from the UK" under the joint supervision of [Professor Sami Bensassi](https://www.birmingham.ac.uk/staff/profiles/business/bensassi-sami) (University of Birmingham) and [Dr. Agelos Delis](https://research.aston.ac.uk/en/persons/agelos-delis/) (Aston University).
+My name is **Jamiu Olamilekan Badmus**. I am currently a PhD Economics Student at the University of Birmingham, working on an ESRC DTP-funded project titled *"Trade Policy, Sustainable Value Chains, and Reshoring: National and Regional Perspectives from the UK"* under the joint supervision of [Professor Sami Bensassi](https://www.birmingham.ac.uk/staff/profiles/business/bensassi-sami) (University of Birmingham) and [Dr. Agelos Delis](https://research.aston.ac.uk/en/persons/agelos-delis/) (Aston University).
 
 My research interests connect international trade, environmental economics, and industrial organisation to inform the design of sustainability-focused trade policies. My current research examines how carbon border adjustments reshape international trade and production. I trace three channels: how border carbon costs propagate through supply chains (production networks), how multinationals respond through location, abatement, and investment decisions (firm behaviour), and how reduced import competition affects domestic market power and green innovation (market structure).
 
