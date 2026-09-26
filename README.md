@@ -11,7 +11,7 @@
 
 ### About Me
 
-My name is **Jamiu Olamilekan Badmus**. I am currently a PhD Economics Student at the University of Birmingham, working on an ESRC DTP-funded project titled *"Trade Policy, Sustainable Value Chains, and Reshoring: National and Regional Perspectives from the UK"* under the joint supervision of [Professor Sami Bensassi](https://www.birmingham.ac.uk/staff/profiles/business/bensassi-sami) (University of Birmingham) and [Dr. Agelos Delis](https://research.aston.ac.uk/en/persons/agelos-delis/) (Aston University).
+My name is **Jamiu Olamilekan Badmus**. I am a PhD Economics Candidate, working on an ESRC DTP Strategic Joint Studentship project titled *"Trade Policy, Sustainable Value Chains, and Reshoring: National and Regional Perspectives from the UK"* under the joint supervision of [Professor Sami Bensassi](https://www.birmingham.ac.uk/staff/profiles/business/bensassi-sami) (University of Birmingham) and [Dr. Agelos Delis](https://research.aston.ac.uk/en/persons/agelos-delis/) (Aston University).
 
 Before my PhD, I worked within the Economic and Political Interactions Cluster at the United Nations University Institute on Comparative Regional Integration Studies (UNU-CRIS). I hold an Erasmus Mundus Master's in Economics of Globalisation and European Integration (EGEI) studying across the University of Lille (France), Ghent University (Belgium), and the University of Bari Aldo Moro (Italy). I also hold an MSc (Distinction) and a BSc (first-class honours) in Economics from Tai Solarin University of Education, Nigeria.
 
